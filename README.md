@@ -1,4 +1,6 @@
 # Jenkins-Config
+#Complete Configuration of Jenkins Console
+#Author:- Shafa Ahmed [+91-9718320763] [shafaahmed100@hotmail.com / shafamalick82@gmail.com]
 Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing,and deploying, facilitating continuous integration and continuous delivery.
 
 #install the java packages
